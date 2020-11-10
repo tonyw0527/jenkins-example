@@ -1,4 +1,4 @@
-# Jenkins auto distributon example
+# Jenkins auto distribution example
 
 ## stack
 || Front | Back |
@@ -14,7 +14,7 @@ export BUILD_ID=dontKillMe
 
 npm --version
 
-cd /var/lib/jenkins/workspace/test/client
+cd /var/lib/jenkins/workspace/[jenkins_preject_name]/client
 
 yarn install
 
