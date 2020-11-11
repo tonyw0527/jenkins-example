@@ -57,6 +57,6 @@ pm2 start app.js
 echo '**********Done**********'
 ```
 
-## Look document here in korean
+## Look document here in Korean
 
 - https://tonyw.tistory.com/192
